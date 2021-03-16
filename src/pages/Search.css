@@ -18,7 +18,7 @@ max-width: 560px;
     border: none;
 }
 .search_input > input:focus {
-    outline-width: 0px;
+    outline-width:0px;
 }
 
 .input_icon {
@@ -42,4 +42,7 @@ max-width: 560px;
     background-color: #f8f8f8;
     border: 1px solid #c6c6c6;
     color:#222;
+}
+.search_btnsHidden {
+    display: none !important;
 }
