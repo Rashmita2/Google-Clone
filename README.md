@@ -1,5 +1,5 @@
 # Google Clone
-A prototyping of google.com. 
+A prototyping of google.com.   
 Technology and Languages used: Visual Studio Code, React, HTML, CSS.
 
 
